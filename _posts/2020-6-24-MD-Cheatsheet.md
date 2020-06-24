@@ -1,3 +1,8 @@
+layout: page
+title: "MD Cheatsheet"
+date: 2020-06-24 15:22:30 -0000
+categories: Trial Error
+
 # H1
 ## H2
 ### H3
